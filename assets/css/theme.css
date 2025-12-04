@@ -67,7 +67,7 @@
 	 * value when referencing the token to remain resilient in older setups.
 	 */
     /* ===== TYPOGRAPHY ===== */
-    --font-sans: 'Noto Sans', sans-serif;
+    --font-sans: 'Bricolage Grotesque', sans-serif;
     --font-serif: 'Garamond', serif;
     --font-mono: 'Ubuntu Mono', monospace;
 

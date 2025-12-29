@@ -7,9 +7,10 @@
   left: 0;
   right: 0;
   z-index: 100;
-  background: rgba(15, 15, 15, 0.9);
+  background: rgb(36, 64, 135);
   backdrop-filter: blur(10px);
   padding: var(--space-md) 0;
+  box-shadow: 0 2px 4px rgb(19, 35, 74);
 }
 
 .nav-container {
@@ -32,7 +33,7 @@
 }
 
 .nav-links a {
-  color: var(--color-text-muted);
+  color: var(--color-text);
   transition: color 0.3s;
 }
 

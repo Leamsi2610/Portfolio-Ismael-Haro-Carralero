@@ -41,15 +41,11 @@
 .hero-bg {
   position: absolute;
   inset: 0;
-  /* IMAGEN PARALLAX */
-  background-image: url("images/hero-background");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-
-  /* CAPA DE COLOR */
   background-blend-mode: overlay;
-  background-color: rgb(36, 64, 135);
+  background-color: rgba(36, 64, 135, 0.106);
   z-index: -1;
 }
 
@@ -165,14 +161,14 @@
   position: absolute;
   inset: 0;
   /* IMAGEN PARALLAX */
-  background-image: url("images/hero-background");
+
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 
   /* CAPA DE COLOR */
   background-blend-mode: overlay;
-  background-color: rgb(36, 64, 135);
+  background-color: rgba(36, 64, 135, 0.106);
   z-index: -1;
 }
 

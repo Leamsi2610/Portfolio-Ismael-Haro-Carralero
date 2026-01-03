@@ -1,0 +1,59 @@
+.error-404-page {
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.error-404-bg {
+  position: absolute;
+  inset: 0;
+
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+  object-position: center;
+
+  z-index: -1;
+  background-color: rgba(36, 64, 135, 0.106);
+}
+
+.error-404-content {
+  position: relative;
+  z-index: 1;
+}
+
+.error-404-title {
+  font-size: var(--text-4xl);
+  font-weight: 800;
+  margin-bottom: var(--space-sm);
+  letter-spacing: -0.02em;
+  font-family: var(--font-sans);
+}
+
+.error-404-subtitle {
+  font-size: var(--text-xl);
+  color: var(--color-text);
+  margin-bottom: var(--space-lg);
+}
+
+.btn-404 {
+  display: inline-block;
+  padding: var(--space-sm) var(--space-lg);
+  background: var(--color-accent);
+  color: white;
+  font-weight: 600;
+  border-radius: 90px;
+  transition: background 0.3s, transform 0.3s;
+}
+
+.btn-404:hover,
+.btn-404:focus {
+  background: var(--color-accent-hover);
+  transform: translateY(-2px);
+}

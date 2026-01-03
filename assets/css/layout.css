@@ -139,6 +139,7 @@
   margin-bottom: var(--space-sm);
   letter-spacing: -0.02em;
   font-family: var(--font-sans);
+  line-height: 1;
 }
 
 .hero-subtitle {

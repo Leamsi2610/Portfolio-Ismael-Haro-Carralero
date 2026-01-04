@@ -46,8 +46,6 @@ ver mis trabajos y poder contactar conmigo.
 
 Para este proyecto he utilizado la IA en un par de ocasiones para poder obtener un diseño más profesional y acorde a mi idea inicial.
 
-- IMÁGENES EN EL PARALLAX
-
 1. FASE 1: PLANIFICACIÓN
 
    Antes de escribir cualquier código, se solicitó a la IA un plan detallado de la tarea o feature. Estos planes se documentaron en archivos independientes dentro de `docs/plan1.md`, `docs/plan2.md`, y `docs/plan3.md`, incluyendo el prompt, la respuesta de la IA y notas sobre la implementación.

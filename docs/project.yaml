@@ -2,49 +2,54 @@
 # This file will be used to generate your entry in the course showroom
 
 # Basic information
-handle: your-github-username
-name: Your Full Name
-email: your-email@udit.es
+handle: Leamsi2610
+name: Ismael Haro Carralero
+email: ismael.haro@alumnos.udit.es
 
 # URLs (will be auto-generated if you follow naming conventions)
-github_url: https://github.com/your-username
-project_url: https://your-username.github.io/your-project-repo
-repository_url: https://github.com/your-username/your-project-repo
+github_url: https://github.com/Leamsi2610
+project_url: https://Leamsi2610.github.io/Portfolio-Ismael-Haro-Carralero
+repository_url: https://github.com/Leamsi2610/Portfolio-Ismael-Haro-Carralero
 
 # Project details
 title:
- es: Título de tu Proyecto en Español
- en: Your Project Title in English
+  es: PORTFOLIO-ISMAEL-HARO-CARRALERO
+  en: PORTFOLIO-ISMAEL-HARO-CARRALERO
 
 abstract:
- es: |
-  Una descripción concisa de tu proyecto web en español. 
-  Explica qué construyes, para quién y por qué es importante.
- en: |
-  A concise description of your web project in English.
-  Explain what you're building, for whom, and why it matters.
+  es: |
+    Este proyecto se trata de un portafolio web personal donde se muestran mis proyectos como ilustrador y diseñador gráfico.
+    Está dirigido a potenciales clientes para mostrar mis habilidades y trabajos realizados.
+  en: |
+    This project is a personal web portfolio showcasing my projects as an illustrator and graphic designer.
+    It is aimed at potential clients to demonstrate my skills and completed works.
 
 # Technical tags (choose relevant ones)
 tags:
- - html5
- - css3
- - responsive-design
- - accessibility
- # Add more as relevant: javascript, sass, performance, etc.
+  - html5
+  - css3
+  - responsive-design
+  - accessibility
+  - web-design
+  - graphic-design
+  - illustrator
+  # Add more as relevant: javascript, sass, performance, etc.
 
 # Learning objectives you're focusing on
 learning_focus:
- - semantic-html
- - mobile-first-design
- - web-accessibility
- # Add more as you progress
+  - semantic-html
+  - mobile-first-design
+  - web-accessibility
+  - visual-design
+  - user-experience
+  # Add more as you progress
 
 # Week tracking (update as you go)
 milestones:
- week_1_setup: false
- week_2_brief: false
- week_4_metadata: false
- week_5_showcase: false
+  week_1_setup: false
+  week_2_brief: false
+  week_4_metadata: false
+  week_5_showcase: false
 
 # Optional: link to your project brief
 brief_url: project-brief.md

@@ -2,16 +2,18 @@
 
 ## Trends
 
-- [Trend 1]
-- [Trend 2]
-- [Trend 3]
+- [MAXIMALISMO]
+- [ILUSTRACIÓN]
+- [DISEÑO WEB]
 
 ## Visual References
 
-- [Link or moodboard image 1]
-- [Link or moodboard image 2]
-- [Link or moodboard image 3]
+- [(https://pin.it/6nYPVAlEK)]
+- [(https://pin.it/TkvRdhYLf)]
+- [(https://pin.it/2wjSJjwnm)]
+- [(https://pin.it/78UZB8Hc1)]
 
 ## Theme Draft
 
-[Your project’s core concept—what it’s about]
+[Mi proyecto consiste en la creación de un portfolio que muestre mi trabajo como ilustrador y diseñador gráfico. Tendrá un diseño maximalista y estará
+cargado de ilustraciones y de imágenes de mis trabajos.]

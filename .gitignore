@@ -1,1 +1,18 @@
-.DS_Store
+# -------------------------------------
+# Dependencias de Node: Así no se suben dependencias
+# -------------------------------------
+node_modules/
+
+# -------------------------------------
+# Archivos del sistema: Así no se suben archivos del sistema operativo
+# -------------------------------------
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# -------------------------------------
+# Configuraciones de IDE / editores: Así no se suben configuraciones locales
+# -------------------------------------
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project

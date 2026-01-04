@@ -1,9 +1,9 @@
 # Project Brief
 
-**Student:** [Your Name]  
-**Handle:** @[your-github-username]  
+**Student:** [ISMAEL HARO CARRALERO]  
+**Handle:** @[Leamsi2610]  
 **Course:** Web Design 2025 · Fall  
-**Date:** [Fill in date - Week 2]
+**Date:** [4/01/26 - Final Week]
 
 ---
 
@@ -11,15 +11,16 @@
 
 ### What are you building?
 
-<!-- Describe your project in 2-3 sentences -->
+Este proyecto se trata de un portafolio web personal donde se muestran mis proyectos como ilustrador y diseñador gráfico.
+Está dirigido a potenciales clientes para mostrar mis habilidades y trabajos realizados.
 
 ### Who is it for?
 
-<!-- Define your target audience -->
+El público al que este proyecto está dirigido es a clientes que quieran ver mis trabajos para contratarme.
 
 ### Why does it matter?
 
-<!-- Explain the purpose and value of your project -->
+Es un proyecto importante ya que no solo muestra mis trbajos, sino que también, vende mi profesionalidad, mi estilo personal, y me abre puertas a clientes y oportunidades que un PDF o presentación no puede.
 
 ---
 
@@ -27,27 +28,27 @@
 
 ### Core Technologies
 
-- [ ] HTML5 (semantic markup)
-- [ ] CSS3 (responsive design)
-- [ ] JavaScript (if applicable)
-- [ ] Other: ****\_\_\_****
+- [x] HTML5 (semantic markup)
+- [x] CSS3 (responsive design)
+- [x] JavaScript (if applicable)
+- [ ] Other: \***\*\_\_\_\*\***
 
 ### Accessibility Goals
 
-- [ ] Semantic HTML structure
-- [ ] Proper heading hierarchy
-- [ ] Alt text for images
+- [x] Semantic HTML structure
+- [x] Proper heading hierarchy
+- [x] Alt text for images
 - [ ] Keyboard navigation support
-- [ ] Color contrast compliance
+- [x] Color contrast compliance
 - [ ] Screen reader compatibility
 
 ### Responsive Design Strategy
 
-- [ ] Mobile-first approach
-- [ ] Flexible grid system
-- [ ] Scalable typography
-- [ ] Optimized images
-- [ ] Touch-friendly interactions
+- [x] Mobile-first approach
+- [x] Flexible grid system
+- [x] Scalable typography
+- [x] Optimized images
+- [x] Touch-friendly interactions
 
 ---
 
@@ -55,17 +56,18 @@
 
 ### Key Sections/Pages
 
-1.
-2.
-3.
+1. Hero Section
+2. Sobre Mí
+3. Proyectos
+4. Contacto
 
 ### Content Sources
 
-<!-- Where will your content come from? -->
+Todo el contenido que conforma la página web viene de mis trabajos y proyectos, hechos la gran mayoría, durante la carrera.
 
 ### Multilingual Considerations
 
-- Primary language:
+- Primary language: Español
 - Secondary language (optional):
 - Translation strategy:
 
@@ -75,19 +77,24 @@
 
 ### Visual Style
 
-<!-- Describe your aesthetic approach -->
+La estética principal que presenta mi portfolio es con un diseño maximalista, con textos en pesos grandes e ilustraciones que ocupan toda la página.
 
 ### Color Palette
 
-<!-- List your main colors -->
+Azul principal #244087;
+Blanco principal #fffcea;
+Rojo principal: #df0017; /_ Indigo — primary brand color _/
 
 ### Typography
 
-<!-- What fonts/typeface approach will you use? -->
+La tipografía que he utilizado para todo el proyecto es la Bricolage Grotesque.
+Solo he utilizado una tipografía para darle una mayor unidad y consitencia al portfolio.
 
 ### Inspiration/References
 
-<!-- List 2-3 websites or designs that inspire your approach -->
+https://generalcondition.com/
+https://dribbble.com/shots/20300654-Portfolio-design
+https://www.nakedcityfilms.com/
 
 ---
 
@@ -95,18 +102,18 @@
 
 ### Week 4 Goals
 
-- [ ] Functional homepage
-- [ ] Basic responsive layout
-- [ ] Core content in place
+- [x] Functional homepage
+- [x] Basic responsive layout
+- [x] Core content in place
 - [ ] Accessible markup
 
 ### Final Project Goals
 
-- [ ] Fully responsive across devices
-- [ ] Meets WCAG 2.1 AA standards
-- [ ] Fast loading performance
-- [ ] Complete content
-- [ ] Polished visual design
+- [x] Fully responsive across devices
+- [x] Meets WCAG 2.1 AA standards
+- [x] Fast loading performance
+- [x] Complete content
+- [x] Polished visual design
 
 ---
 
@@ -114,9 +121,17 @@
 
 ### What excites you most about this project?
 
+Lo que más me emociona de este proyecto es poder ver mi trabajo, presentado de manera profesional a todo el mundo.
+
 ### What challenges do you anticipate?
 
+Antes de empezar el proyecto me anticipe a varios retos con los que me iba a encontrar como el uso de animaciones que
+al final he sabido manejar de una manera u otra.
+
 ### How does this project connect to your learning goals?
+
+Este proyecto está conectado a mi aprendizaje en programación ya que me han permitido realizar un produco del que estoy orgulloso
+y que es muy útil a un futuro.
 
 ---
 

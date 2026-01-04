@@ -4,7 +4,7 @@
 
 - [MAXIMALISMO]
 - [ILUSTRACIÓN]
-- [DISEÑO WEB]
+- [DISEÑO-WEB]
 
 ## Visual References
 
